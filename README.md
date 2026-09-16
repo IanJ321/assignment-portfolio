@@ -1,2 +1,10 @@
-# GitHub Pages Template for Hello World
-This repository provides a template for a GitHub Pages website. The template implements HTML, CSS, and JavaScript. 
+# assignment-portfolio
+Name:         Ian Jung
+
+Project Name: Assignment Portfolio
+
+## Instructions
+1. Clone or download this repository
+2. Ensure all files are within the same folder:
+   - index.html
+   - main.css
